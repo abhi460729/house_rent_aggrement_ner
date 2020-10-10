@@ -1,0 +1,41 @@
+© “Lesconcierges Help Desk” ©
+
+For rental agreement request take only the details as
+
+mentioned below.
+
+Note: Request you to fill the details in capital letters and these all details are mandatory:
+
+	Request number(SRF) and Desk Name
+
+	Value of stamp paper(Rs.20 or 50 or 100 or 200)
+
+		Commencing(starting) date of agreement	: {{01-04-2014}}[start]
+
+		Monthly Rent amount (in words also)	: {{EIGHT THOUSAND ONLY}}[rent]
+
+	Security Deposit or advance amount (in words also): FIFTY THOUSAND ONLY
+
+6. Owner NAME and Address: ...{{SHIVANAND}}[partyone],NO 17,6th MAIN,2nd CROSS,VINAYAKA
+
+LAYOUT,CHINNAPANNAHALLI,MARATHAHALLI,BANGALORE- 560037
+
+7. Tenant NAME and Address: {{VIVEK CHANDRA MALLIK}}[partytwo], 1st FLOOR,NO 17,6th MAIN,2nd CROSS,VINAYAKA LAYOUT,CHINNAPANNAHLLI.MARATHAHALLI,BANGALORE-560037
+
+	Property address (Schedule) (address of which place you are going to stay/use for rent): 1st FLOOR,NO 17,6th MAIN,2nd
+
+CROSS,VINAYAKA,LAYOUT,CHINNAPANNAHLLI.MARATHAHALLI,BANGALORE-560037
+
+					Along with Fittings and Fixtures: Fans:-	2	No’s, Tube lights:-	2 ...No’s, Bedrooms:-	2...
+
+No’s, Geyser :...0.. No’s, Attached bathroom& toilet: Yes
+
+Cost: Total charges Rs. 200/- (for stamp paper of Rs.20/-), 250/- (For stamp paper ofRs.50/-) and 300/-(for stamp paper of Rs.100/-)
+
+TAT: 2working days
+
+Note: Stamp paper value will be depends on security or advance amount.
+
+For eg: If the advance below 20.000/- then 20 rupees stamp paper is required. If it is above 20,000 to below 50.000 then 50/- rupees stamp paper is required, if it above 50.000 the 100/- stamp paper is required.
+
+Signature of Customer/Applicant
